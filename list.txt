@@ -1,4 +1,4 @@
-! Title: Hide YouTube Playables Too (intended for use with Hide YouTube Playables)
+! Title: Hide YouTube Playables Too (intended for use with Hide YouTube Shorts)
 ! Description: Hide all traces of YouTube Playables videos on YouTube
 ! Version: 1.0.0
 ! Last modified: 2025-03-06 17:35
