@@ -6,5 +6,4 @@
 ! Homepage: https://github.com/Vivian-Green/ublock-hide-yt-playables
 ! License: https://github.com/Vivian-Green/ublock-hide-yt-playables/blob/master/LICENSE.md
 
-! Hide all videos containing the phrase "#shorts"
-www.youtube.com##ytd-rich-shelf-renderer:has(#ytd-mini-game-card-view-model)
+www.youtube.com##ytd-rich-item-renderer:has(#ytd-mini-game-card-view-model)
