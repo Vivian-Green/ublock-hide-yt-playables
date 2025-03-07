@@ -6,4 +6,4 @@
 ! Homepage: https://github.com/Vivian-Green/ublock-hide-yt-playables
 ! License: https://github.com/Vivian-Green/ublock-hide-yt-playables/blob/master/LICENSE.md
 
-www.youtube.com##ytd-rich-item-renderer:has(#ytd-mini-game-card-view-model)
+www.youtube.com##mini-game-card-view-model
