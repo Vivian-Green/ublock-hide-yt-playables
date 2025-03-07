@@ -1,6 +1,6 @@
-# Hide YouTube Playables List
+# Hide YouTube Shorts *as well as* Playables List
 
-A WIP [uBlock Origin](https://github.com/gorhill/uBlock) filter list to hide all traces of YouTube playables
+A [uBlock Origin](https://github.com/gorhill/uBlock) filter list to hide all traces of YouTube shorts *and* playables
 
 Copy the link below, go to uBlock Origin > Dashboard > Filters and paste the link underneath the 'Import...' heading:
 - [https://raw.githubusercontent.com/Vivian-Green/ublock-hide-yt-playables/master/list.txt](ubo:subscribe?location=https://raw.githubusercontent.com/Vivian-Green/ublock-hide-yt-playables/master/list.txt)
